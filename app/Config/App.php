@@ -24,7 +24,14 @@ class App extends BaseConfig
         
         // Auto-detect baseURL based on environment
         if (empty($this->baseURL)) {
-            $scheme = ($_SERVER['HTTPS'] ?? '') === 'on' ? 'https://' : 'http://';
+            // Detect scheme (handle proxy headers for production)
+            $scheme = 'http://';
+            if (($_SERVER['HTTPS'] ?? '') === 'on' || 
+                ($_SERVER['HTTP_X_FORWARDED_PROTO'] ?? '') === 'https' ||
+                ($_SERVER['SERVER_PORT'] ?? '') === '443') {
+                $scheme = 'https://';
+            }
+            
             $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
             $this->baseURL = $scheme . $host . '/';
         }
