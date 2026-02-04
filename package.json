@@ -1,0 +1,15 @@
+{
+  "name": "colegio-bryce",
+  "version": "1.0.0",
+  "description": "Colegio Preuniversitario Bryce",
+  "private": true,
+  "scripts": {
+    "dev": "tailwindcss -i ./resources/css/input.css -o ./public/css/tailwind.css --watch",
+    "build": "tailwindcss -i ./resources/css/input.css -o ./public/css/tailwind.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  }
+}
