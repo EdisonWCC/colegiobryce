@@ -1,13 +1,11 @@
 services:
   - type: web
     name: colegio-bryce
-    env: php
-    phpVersion: 8.2
-    buildCommand: composer install && npm run build
-    startCommand: vendor/bin/heroku-php-apache2 public/
+    env: docker
+    region: ohio
+    plan: free
     envVars:
       - key: CI_ENVIRONMENT
         value: production
       - key: DEBUGBAR_ENABLED
         value: false
-    disableDeploy: false
