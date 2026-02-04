@@ -10,7 +10,8 @@ RUN apt-get update && apt-get install -y \
     unzip \
     curl \
     libzip-dev \
-    && docker-php-ext-install zip \
+    libicu-dev \
+    && docker-php-ext-install zip intl \
     && rm -rf /var/lib/apt/lists/*
 
 # Enable Apache mod_rewrite for CodeIgniter routing
