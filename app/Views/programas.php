@@ -5,9 +5,9 @@
 <section class="bg-gradient-to-br from-blue-600 to-indigo-700 text-white py-20">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-3xl mx-auto text-center animate-slideInUp">
-            <h1 class="text-4xl md:text-5xl font-bold mb-6 font-playfair animate-fadeInUp">Nuestros Programas</h1>
+            <h1 class="text-4xl md:text-5xl font-bold mb-6 font-playfair animate-fadeInUp">Programas Académicos</h1>
             <p class="text-xl text-blue-100 animate-fadeInUp delay-100">
-                Programas académicos diseñados para prepararte para el éxito universitario
+                Formación integral con enfoque moderno
             </p>
         </div>
     </div>
@@ -26,34 +26,34 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                             </svg>
                         </div>
-                        <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Preparación Preuniversitaria Intensiva</h2>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Educación Secundaria - EBR</h2>
                         <p class="text-gray-700 text-lg mb-6">
-                            Programa completo diseñado para estudiantes que buscan ingresar a las mejores universidades del país. Incluye preparación para exámenes de admisión, desarrollo de habilidades académicas y orientación vocacional.
+                            Ofrecemos Educación Secundaria – Educación Básica Regular (EBR), desarrollando un modelo pedagógico centrado en el estudiante, que fomenta la participación activa, el trabajo colaborativo y el aprendizaje significativo.
                         </p>
                         <ul class="space-y-3 mb-6">
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-blue-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Preparación para exámenes de admisión universitarios</span>
+                                <span class="text-gray-700">Desarrollo de competencias académicas alineadas al Currículo Nacional</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-blue-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Clases en todas las áreas: Matemáticas, Ciencias, Letras</span>
+                                <span class="text-gray-700">Uso responsable de herramientas tecnológicas en el proceso de aprendizaje</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-blue-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Simulacros de examen periódicos</span>
+                                <span class="text-gray-700">Aprendizaje basado en proyectos y evaluación formativa</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-blue-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Orientación vocacional personalizada</span>
+                                <span class="text-gray-700">Tutoría, orientación personal y vocacional permanente</span>
                             </li>
                         </ul>
                         <a href="{{ route('admission') }}" class="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors">
@@ -80,34 +80,34 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
                             </svg>
                         </div>
-                        <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Refuerzo Académico Personalizado</h2>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Áreas Académicas</h2>
                         <p class="text-gray-700 text-lg mb-6">
-                            Programa de apoyo académico diseñado para fortalecer conocimientos en áreas específicas. Ideal para estudiantes que necesitan reforzar materias particulares o mejorar su rendimiento académico.
+                            Nuestro programa abarca todas las áreas fundamentales del conocimiento, asegurando una formación integral y equilibrada en todos los campos del saber.
                         </p>
                         <ul class="space-y-3 mb-6">
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-purple-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Clases personalizadas o en grupos pequeños</span>
+                                <span class="text-gray-700">Comunicación, Matemática, Ciencia y Tecnología</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-purple-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Enfoque en áreas específicas de dificultad</span>
+                                <span class="text-gray-700">Ciencias Sociales e Inglés</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-purple-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Horarios flexibles adaptados a tus necesidades</span>
+                                <span class="text-gray-700">Arte, Cultura, Educación Física y Religiosa</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-purple-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Material de estudio y recursos adicionales</span>
+                                <span class="text-gray-700">Educación para el Trabajo y TIC</span>
                             </li>
                         </ul>
                         <a href="{{ route('admission') }}" class="inline-block bg-purple-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-purple-700 transition-colors">
@@ -128,34 +128,34 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
                             </svg>
                         </div>
-                        <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Desarrollo de Habilidades y Liderazgo</h2>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Formación en Valores</h2>
                         <p class="text-gray-700 text-lg mb-6">
-                            Programa complementario enfocado en el desarrollo de habilidades blandas, liderazgo, comunicación efectiva y pensamiento crítico. Preparación integral más allá del ámbito académico.
+                            Nuestra propuesta educativa integral incluye formación en valores, ciudadanía y convivencia escolar, complementada con actividades que fortalecen la creatividad, el deporte y la expresión cultural.
                         </p>
                         <ul class="space-y-3 mb-6">
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-green-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Talleres de liderazgo y trabajo en equipo</span>
+                                <span class="text-gray-700">Formación en valores y ciudadanía responsable</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-green-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Desarrollo de comunicación efectiva</span>
+                                <span class="text-gray-700">Identidad de convivencia escolar armoniosa</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-green-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Pensamiento crítico y resolución de problemas</span>
+                                <span class="text-gray-700">Actividades deportivas y expresión cultural</span>
                             </li>
                             <li class="flex items-start">
                                 <svg class="w-6 h-6 text-green-600 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-gray-700">Actividades extracurriculares y proyectos</span>
+                                <span class="text-gray-700">Fortalecimiento de la creatividad y expresión</span>
                             </li>
                         </ul>
                         <a href="{{ route('admission') }}" class="inline-block bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors press-effect">

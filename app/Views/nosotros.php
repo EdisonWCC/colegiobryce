@@ -5,9 +5,9 @@
 <section class="bg-gradient-to-br from-blue-600 to-indigo-700 text-white py-20">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-3xl mx-auto text-center animate-slideInUp">
-            <h1 class="text-4xl md:text-5xl font-bold mb-6 font-playfair animate-fadeInUp">Sobre Nosotros</h1>
+            <h1 class="text-4xl md:text-5xl font-bold mb-6 font-playfair animate-fadeInUp">Nosotros</h1>
             <p class="text-xl text-blue-100 animate-fadeInUp delay-100">
-                Una institución comprometida con la excelencia educativa y la formación integral de nuestros estudiantes
+                Educación que forma personas y construye futuro
             </p>
         </div>
     </div>
@@ -32,9 +32,9 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
                 </div>
-                <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Nuestra Misión</h2>
+                <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">¿Quiénes Somos?</h2>
                 <p class="text-gray-700 text-lg leading-relaxed">
-                    Formar estudiantes integrales con excelencia académica, valores sólidos y habilidades para enfrentar los desafíos del mundo universitario y profesional, preparándolos para ser líderes comprometidos con el desarrollo de nuestra sociedad.
+                    La Institución Educativa Privada BRYCE es un colegio de nivel secundaria comprometido con la formación integral de adolescentes, brindando una educación de calidad basada en el desarrollo académico, humano y social. Nos encontramos ubicados en el distrito de Wanchaq – Cusco, y ofrecemos un entorno educativo seguro, organizado y orientado al logro de aprendizajes significativos.
                 </p>
             </div>
 
@@ -45,9 +45,9 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
                     </svg>
                 </div>
-                <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Nuestra Visión</h2>
+                <h2 class="text-3xl font-bold text-gray-900 mb-4 font-playfair">Nuestro Compromiso</h2>
                 <p class="text-gray-700 text-lg leading-relaxed">
-                    Ser reconocidos como la institución preuniversitaria líder en la región, destacando por nuestros altos índices de ingreso universitario, la calidad de nuestros programas académicos y el desarrollo integral de nuestros estudiantes.
+                    Nuestro proyecto educativo promueve el pensamiento crítico, la responsabilidad social y la formación en valores, fortaleciendo las habilidades de los estudiantes para que puedan desenvolverse con éxito en la educación superior y en la vida cotidiana. Trabajamos de la mano con las familias, convencidos de que la educación es un esfuerzo conjunto.
                 </p>
             </div>
         </div>
@@ -120,13 +120,13 @@
 
             <div class="prose prose-lg max-w-none">
                 <p class="text-gray-700 text-lg leading-relaxed mb-6">
-                    Fundado hace más de 15 años, el Colegio Preuniversitario Bryce nació con la visión de brindar una educación de calidad que prepare a los estudiantes para los desafíos del mundo universitario. Desde nuestros inicios, nos hemos comprometido con la excelencia académica y la formación integral.
+                    Bryce es más que una institución educativa, es un espacio donde se forma el carácter y se construye el futuro de nuestros estudiantes. Ubicados en el corazón de Wanchaq, Cusco, nos dedicamos a ofrecer una propuesta educativa integral que va más allá de lo académico.
                 </p>
                 <p class="text-gray-700 text-lg leading-relaxed mb-6">
-                    A lo largo de los años, hemos crecido significativamente, expandiendo nuestros programas y mejorando continuamente nuestras instalaciones y metodologías. Nuestro éxito se refleja en los más de 500 estudiantes que han pasado por nuestras aulas y que hoy forman parte de las mejores universidades del país.
+                    Nuestro enfoque se centra en desarrollar no solo competencias académicas sólidas, sino también valores fundamentales como la responsabilidad, el respeto, la honestidad y el compromiso social. Creemos que una educación verdadera transforma vidas y contribuye al desarrollo de una sociedad mejor.
                 </p>
                 <p class="text-gray-700 text-lg leading-relaxed">
-                    Hoy, seguimos innovando y adaptándonos a las necesidades del mundo moderno, manteniendo siempre nuestro compromiso con la excelencia y el desarrollo integral de nuestros estudiantes.
+                    Cada día trabajamos con dedicación para que nuestros estudiantes logren sus metas universitarias y, más importante aún, se conviertan en personas íntegras, críticas y conscientes de su responsabilidad con la comunidad.
                 </p>
             </div>
         </div>

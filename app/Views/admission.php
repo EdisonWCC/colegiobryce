@@ -5,9 +5,9 @@
 <section class="bg-gradient-to-br from-blue-600 to-indigo-700 text-white py-20">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-3xl mx-auto text-center animate-slideInUp">
-            <h1 class="text-4xl md:text-5xl font-bold mb-6 font-playfair animate-fadeInUp">Proceso de Admisión</h1>
+            <h1 class="text-4xl md:text-5xl font-bold mb-6 font-playfair animate-fadeInUp">Admisión</h1>
             <p class="text-xl text-blue-100 animate-fadeInUp delay-100">
-                Únete a nuestra comunidad educativa y comienza tu camino hacia el éxito universitario
+                Una decisión importante para el futuro de tu hijo
             </p>
         </div>
     </div>
@@ -17,9 +17,9 @@
 <section class="py-20 bg-white">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16 animate-fadeInUp">
-            <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4 font-playfair">Pasos del Proceso</h2>
+            <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4 font-playfair">Proceso de Admisión</h2>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
-                Un proceso simple y transparente para tu admisión
+                El proceso de admisión de la I.E.P. BRYCE está orientado a asegurar que cada estudiante reciba una educación adecuada a su etapa de desarrollo, en un ambiente de respeto, disciplina y acompañamiento constante.
             </p>
         </div>
 
@@ -32,12 +32,12 @@
                     </div>
                 </div>
                 <div class="flex-1 bg-gray-50 p-8 rounded-xl card-hover">
-                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Solicitud de Información</h3>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Información Inicial</h3>
                     <p class="text-gray-700 mb-4">
-                        Completa nuestro formulario de contacto o visita nuestras instalaciones para conocer más sobre nuestros programas y requisitos de admisión.
+                        Contáctanos para obtener información sobre los requisitos, fechas de inscripción y vacantes disponibles. Nuestro equipo de admisiones brindará orientación personalizada a las familias interesadas.
                     </p>
                     <a href="{{ route('contacto') }}" class="text-blue-600 font-semibold hover:text-blue-700">
-                        Completar formulario →
+                        Solicitar información →
                     </a>
                 </div>
             </div>
@@ -50,12 +50,12 @@
                     </div>
                 </div>
                 <div class="flex-1 bg-gray-50 p-8 rounded-xl card-hover">
-                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Evaluación Académica</h3>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Compromiso Institucional</h3>
                     <p class="text-gray-700 mb-4">
-                        Realiza una evaluación diagnóstica que nos permitirá conocer tu nivel académico actual y recomendarte el programa más adecuado para ti.
+                        La institución evalúa la disponibilidad de vacantes y el compromiso de las familias con la formación académica y personal del estudiante, garantizando una atención educativa responsable y de calidad.
                     </p>
                     <p class="text-sm text-gray-600">
-                        La evaluación es sin costo y tiene una duración aproximada de 2 horas.
+                        Buscamos familias comprometidas con el proceso educativo integral.
                     </p>
                 </div>
             </div>
@@ -68,12 +68,12 @@
                     </div>
                 </div>
                 <div class="flex-1 bg-gray-50 p-8 rounded-xl card-hover">
-                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Entrevista Personal</h3>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Modalidad de Estudio</h3>
                     <p class="text-gray-700 mb-4">
-                        Participa en una entrevista con nuestro equipo de admisiones donde podrás conocer más detalles sobre nuestros programas y resolver todas tus dudas.
+                        Ofrecemos educación presencial en turno mañana, garantizando una atención personalizada y un ambiente propicio para el aprendizaje integral de nuestros estudiantes.
                     </p>
                     <p class="text-sm text-gray-600">
-                        La entrevista puede realizarse de forma presencial o virtual.
+                        Ambiente seguro, organizado y orientado al logro de aprendizajes significativos.
                     </p>
                 </div>
             </div>
@@ -86,16 +86,13 @@
                     </div>
                 </div>
                 <div class="flex-1 bg-gray-50 p-8 rounded-xl card-hover">
-                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Documentación</h3>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Ubicación</h3>
                     <p class="text-gray-700 mb-4">
-                        Presenta la documentación requerida:
+                        Nos localizamos en el distrito de Wanchaq, Cusco, en un ambiente seguro y propicio para la educación integral de nuestros estudiantes.
                     </p>
-                    <ul class="list-disc list-inside text-gray-700 space-y-2 mb-4">
-                        <li>Certificado de estudios secundarios o constancia de estudios</li>
-                        <li>Documento de identidad (copia)</li>
-                        <li>Fotografías tamaño carnet</li>
-                        <li>Formulario de inscripción completado</li>
-                    </ul>
+                    <p class="text-sm text-gray-600">
+                        Instalaciones modernas y equipadas para el óptimo desarrollo académico.
+                    </p>
                 </div>
             </div>
 
@@ -107,12 +104,12 @@
                     </div>
                 </div>
                 <div class="flex-1 bg-gray-50 p-8 rounded-xl card-hover">
-                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Confirmación y Matrícula</h3>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-4">Próximos Pasos</h3>
                     <p class="text-gray-700 mb-4">
-                        Una vez aprobada tu admisión, realiza el proceso de matrícula y pago. Recibirás toda la información sobre horarios, materiales y el inicio de clases.
+                        Para conocer más detalles, requisitos específicos y calendarios de inscripción, invitamos a los padres de familia a comunicarse directamente con la institución y recibir orientación personalizada de nuestro equipo.
                     </p>
                     <p class="text-sm text-gray-600">
-                        Ofrecemos opciones de pago flexibles y planes de financiamiento.
+                        Estamos disponibles para resolver todas tus preguntas.
                     </p>
                 </div>
             </div>
